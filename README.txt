@@ -1,1 +1,1 @@
-Hello Git and Github
+An Interactive JavaScript Website
